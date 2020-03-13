@@ -1,0 +1,22 @@
+body {
+	background-color:#F5F5F5;
+	margin:0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.carousel1 {
+
+	height: 1240px;
+	width: 1200px;
+}
+
+footer{
+	background-color: #222;
+	padding: 10px;
+	text-align: center;
+	color: white;
+	font-weight: 300;
+}
+
+
